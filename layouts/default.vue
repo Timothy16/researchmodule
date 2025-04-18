@@ -77,6 +77,7 @@
     { label: 'Citations', icon: 'fas fa-book', link: '/citations' },
     { label: 'Conferences', icon: 'fas fa-users', link: '/conferences' },
     { label: 'Discussions', icon: 'fas fa-comments', link: '/discussions' },
+    { label: 'DCI', icon: 'fas fa-book-open-reader', link: '/dci' },
   ]
   </script>
   
