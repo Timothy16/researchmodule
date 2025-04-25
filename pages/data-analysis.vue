@@ -1,6 +1,6 @@
 <!-- pages/lecturer/data-analysis.vue -->
 <template>
-    <NuxtLayout name="dashboard">
+    
       <div>
         <!-- Header Section -->
         <div class="mb-6 flex justify-between items-center">
@@ -479,7 +479,7 @@
           </div>
         </div>
       </div>
-    </NuxtLayout>
+    
   </template>
   
   <script setup>
